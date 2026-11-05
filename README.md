@@ -11,14 +11,14 @@ set of 52 K/DA wallpapers that cycle through the desktop.
 
 ## Requirements
 
-Uses the [Fit-Width Background plugin](https://github.com/huyhuyhuy8s/thearesia-background)
+Uses the [Fit-Width Background plugin](https://github.com/huyhuyhuy8s/ambient-background)
 (`thearesia.background`) so portrait and square wallpapers render edge-to-edge
 with a glowing ambient letterbox instead of black bars.
 
 ## Install
 
 ```bash
-omarchy plugin add https://github.com/huyhuyhuy8s/thearesia-background --enable
+omarchy plugin add https://github.com/huyhuyhuy8s/ambient-background --enable
 omarchy theme install https://github.com/huyhuyhuy8s/omarchy-kda-firestarter-theme
 ```
 
