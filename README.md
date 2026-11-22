@@ -6,6 +6,15 @@ set of 52 K/DA wallpapers that cycle through the desktop.
 
 ![preview](preview.png)
 
+## Wallpaper previews
+
+A few of the wallpapers included in the 52-image rotation:
+
+<p align="center">
+  <img src="backgrounds/47-lol-group-glam-pile.webp" alt="K/DA group wallpaper" width="49%">
+  <img src="backgrounds/29-wine-eyes.webp" alt="Magenta and violet eyes wallpaper" width="49%">
+</p>
+
 > Wallpaper art: © Riot Games (K/DA / League of Legends). Non-commercial fan
 > collection. Contact for removal if requested.
 
